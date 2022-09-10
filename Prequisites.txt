@@ -1,0 +1,3 @@
+Please enter the command in jupyter-notebook/VS-Code/Sublime/in your preferred editor
+
+"pip install pygame"
